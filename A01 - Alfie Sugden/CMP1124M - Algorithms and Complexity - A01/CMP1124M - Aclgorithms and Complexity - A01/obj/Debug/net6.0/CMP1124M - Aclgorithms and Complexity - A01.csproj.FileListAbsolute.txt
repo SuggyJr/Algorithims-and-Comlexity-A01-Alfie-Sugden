@@ -1,0 +1,60 @@
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.exe
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.deps.json
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.runtimeconfig.json
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.AssemblyReference.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfoInputs.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfo.cs
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.CoreCompileInputs.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\refint\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.genruntimeconfig.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Aclgorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\ref\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.exe
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.deps.json
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.runtimeconfig.json
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.AssemblyReference.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfoInputs.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfo.cs
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.CoreCompileInputs.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\refint\CMP1124M - Aclgorithms and Complexity - A01.dll
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.genruntimeconfig.cache
+F:\UNI Work\A&C\ASS1\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\ref\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.exe
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.deps.json
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.runtimeconfig.json
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.AssemblyReference.cache
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.GeneratedMSBuildEditorConfig.editorconfig
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfoInputs.cache
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfo.cs
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.CoreCompileInputs.cache
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\refint\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.genruntimeconfig.cache
+C:\A01\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\ref\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.exe
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.deps.json
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.runtimeconfig.json
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\bin\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.AssemblyReference.cache
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.GeneratedMSBuildEditorConfig.editorconfig
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfoInputs.cache
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.AssemblyInfo.cs
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.csproj.CoreCompileInputs.cache
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\refint\CMP1124M - Aclgorithms and Complexity - A01.dll
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.pdb
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\CMP1124M - Aclgorithms and Complexity - A01.genruntimeconfig.cache
+C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\obj\Debug\net6.0\ref\CMP1124M - Aclgorithms and Complexity - A01.dll
