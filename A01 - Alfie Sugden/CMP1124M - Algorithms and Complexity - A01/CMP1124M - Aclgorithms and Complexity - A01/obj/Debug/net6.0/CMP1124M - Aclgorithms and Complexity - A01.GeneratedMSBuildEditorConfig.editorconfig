@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CMP1124M___Aclgorithms_and_Complexity___A01
+build_property.ProjectDir = C:\A01 - Alfie Sugden\CMP1124M - Algorithms and Complexity - A01\CMP1124M - Aclgorithms and Complexity - A01\
